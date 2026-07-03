@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a computer engineering new graduate passionate about building full-stack applications, experimenting with AI, and exploring new technologies. I enjoy creating self-directed projects that challenge me to learn Python, TypeScript, React, Next.js, PyTorch, Docker, cloud hosting, and multi-agent AI systems. My work blends hands-on development with continuous learning, focusing on scalable, well-tested solutions and modern software practices.
+I’m a software developer passionate about building full-stack applications, experimenting with AI, and exploring new technologies. I enjoy creating self-directed projects that challenge me to learn Python, TypeScript, React, Next.js, PyTorch, Docker, cloud hosting, and multi-agent AI systems. My work blends hands-on development with continuous learning, focusing on scalable, well-tested solutions and modern software practices.
 
 When I’m not coding, I’m usually tinkering with Linux systems, exploring cloud architectures, or trying out new automation workflows.
 
